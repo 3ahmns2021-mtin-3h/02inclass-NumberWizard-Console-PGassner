@@ -1,4 +1,4 @@
-# Template2D-Unity202015f1-PGassner
+# Template2D-Unity202015f1
 
 ### Project description: 
 Introduction/Project summary 
